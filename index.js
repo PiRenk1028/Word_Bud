@@ -1,7 +1,7 @@
 const canvas = document.getElementById('canvas');
 const context = canvas.getContext('2d');
 canvas.width = 900;
-canvas.height = 1400;
+canvas.height = 1600;
 
 var file = [[1,1],[2,2],[3,3],[4,4],[5,5],[6,6],[7,7],[8,8]] //replace with excel fillRect
 
