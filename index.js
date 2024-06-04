@@ -10,7 +10,7 @@ function readFile(word = Math.floor(Math.random()*file.length)){
 }
 
 function drawScreen(){
-  context.fillStyle = 'red';
+  context.fillStyle = 'black';
   context.fillRect(0,0,canvas.width,canvas.height);
 }
 
